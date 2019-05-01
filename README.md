@@ -1,4 +1,4 @@
-# ToxicityClassification
+# Toxicity-Classification
 This repository is created with the purpose of showcasing my ability to manipulate, organize, and simplify data using Python's pandas and scikit-learn packages.
 
 In this project I clean and reduce text data from a recent Kaggle competition:
